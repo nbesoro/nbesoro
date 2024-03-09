@@ -7,7 +7,7 @@ Salut, je suis Nbe Soro, développeur back-end Python Django avec 3 ans d'expér
 - 🔭 Actuellement, je travaille sur des projets passionnants en utilisant Python et le framework Django.
 - 🌱 En plus de mes compétences en développement, je suis un mentor expérimenté, aidant les étudiants et les débutants à acquérir les compétences nécessaires pour réussir dans le monde du développement.
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants et à partager mes connaissances avec la communauté.
-- 📫 Vous pouvez me contacter via :flying_saucer: mail - ibrasoro04@gmail.com .
+- 📫 Vous pouvez me contacter via :flying_saucer: mail - bonjour@nbesoro.com / ibrasoro04@gmail.com .
 
 ## ⚡ Langages et technologies
 - **OS**:
@@ -67,7 +67,7 @@ Salut, je suis Nbe Soro, développeur back-end Python Django avec 3 ans d'expér
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nbe-soro/) Retrouvez-moi sur LinkedIn
 - [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nbesoro) Abonnez-vous sur YouTube
-- [![Website](https://img.shields.io/badge/-Votre_Site_Web-47CCCC?style=flat-square&logo=google-chrome&logoColor=white)](https://nisconsulting.ci/) Visitez mon site Web personnel
+- [![Website](https://img.shields.io/badge/-Mon_Site_Web-47CCCC?style=flat-square&logo=google-chrome&logoColor=white)](https://nbesoro.com/) Visitez mon site Web personnel
 - [![Réserver un créneau](https://img.shields.io/badge/-Réserver_un_créneau-00BFFF?style=flat-square)](https://calendly.com/nbesoro/30min) Réservez un créneau de 30 minutes
 
 
