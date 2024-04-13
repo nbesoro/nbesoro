@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Salut, je suis Nbe Soro, développeur back-end Python Django avec 3 ans d'expérience. Je suis passionné par la création de solutions logicielles innovantes et fiables.
+Salut, je suis Nbe Soro, développeur back-end Python Django avec 4 ans d'expérience. Je suis passionné par la création de solutions logicielles innovantes et fiables.
 
 ## À propos de moi
 
@@ -9,6 +9,12 @@ Salut, je suis Nbe Soro, développeur back-end Python Django avec 3 ans d'expér
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants et à partager mes connaissances avec la communauté.
 - 📫 Vous pouvez me contacter via :flying_saucer: mail - bonjour@nbesoro.com / ibrasoro04@gmail.com .
 
+## Me suivre
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nbe-soro/) Retrouvez-moi sur LinkedIn
+- [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nbesoro) Abonnez-vous sur YouTube
+- [![Website](https://img.shields.io/badge/-Mon_Site_Web-47CCCC?style=flat-square&logo=google-chrome&logoColor=white)](https://nbesoro.com/) Visitez mon site Web personnel
+- [![Réserver un créneau](https://img.shields.io/badge/-Réserver_un_créneau-00BFFF?style=flat-square)](https://calendly.com/nbesoro/30min) Réservez un créneau de 30 minutes
 ## ⚡ Langages et technologies
 - **OS**:
     ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -63,12 +69,6 @@ Salut, je suis Nbe Soro, développeur back-end Python Django avec 3 ans d'expér
 
 
 
-## Me suivre
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nbe-soro/) Retrouvez-moi sur LinkedIn
-- [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nbesoro) Abonnez-vous sur YouTube
-- [![Website](https://img.shields.io/badge/-Mon_Site_Web-47CCCC?style=flat-square&logo=google-chrome&logoColor=white)](https://nbesoro.com/) Visitez mon site Web personnel
-- [![Réserver un créneau](https://img.shields.io/badge/-Réserver_un_créneau-00BFFF?style=flat-square)](https://calendly.com/nbesoro/30min) Réservez un créneau de 30 minutes
-
-
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question. Merci de votre visite ! 🚀
+
+<a href="https://www.buymeacoffee.com/soro4827z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
